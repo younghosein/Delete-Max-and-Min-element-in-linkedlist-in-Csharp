@@ -1,0 +1,7 @@
+C:\Users\RayanGate\source\repos\DelMaxInLinkedlist\DelMaxInLinkedlist\bin\Debug\DelMaxInLinkedlist.exe.config
+C:\Users\RayanGate\source\repos\DelMaxInLinkedlist\DelMaxInLinkedlist\bin\Debug\DelMaxInLinkedlist.exe
+C:\Users\RayanGate\source\repos\DelMaxInLinkedlist\DelMaxInLinkedlist\bin\Debug\DelMaxInLinkedlist.pdb
+C:\Users\RayanGate\source\repos\DelMaxInLinkedlist\DelMaxInLinkedlist\obj\Debug\DelMaxInLinkedlist.csproj.AssemblyReference.cache
+C:\Users\RayanGate\source\repos\DelMaxInLinkedlist\DelMaxInLinkedlist\obj\Debug\DelMaxInLinkedlist.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\source\repos\DelMaxInLinkedlist\DelMaxInLinkedlist\obj\Debug\DelMaxInLinkedlist.exe
+C:\Users\RayanGate\source\repos\DelMaxInLinkedlist\DelMaxInLinkedlist\obj\Debug\DelMaxInLinkedlist.pdb
